@@ -1,7 +1,7 @@
-- 👋 Hi, We @SlovakiaStudios
-- 👀 We interested in Pirating Games
-- 🌱 We currently learning Nothing
+- 👋 Hi, We are @SlovakiaStudios
+- 👀 We interested in Differment.eu
+- 🌱 We currently learning Coding
 - 💞️ I’m looking to collaborate on Pirates Bay
 - 📫 How to reach our studios on the itch.io and here on Slovakia Studios GitHub
 
-- Currently Pirating and controlling Vivat Sloboda
+- Co Owner of Differment.eu By Doktor Matty
